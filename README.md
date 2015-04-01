@@ -1,0 +1,1 @@
+Url Translations for Ez Platform

@@ -1,0 +1,20 @@
+{
+  "name": "crevillo/ezurltranslatorbundle",
+  "description": "Url Translator for eZ Publish Platform",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "crevillo",
+      "homepage": "http://github.com/crevillo"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3.3",
+    "ezsystems/ezpublish-kernel": "@dev"
+  },
+  "autoload": {
+    "psr-0": {"Crevillo\\EzURLTranslatorBundle": ""}
+  },
+  "target-dir": "Crevillo/EzURLTranslatorBundle"
+}
